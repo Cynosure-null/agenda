@@ -1,0 +1,26 @@
+AGENDA -*- mode: org -*-
+
+#+STARTUP: overview
+
+#+TITLE: DO your homework, nerd
+
+
+* Creative Engineering
+* Humanities
+* Spanish
+* Physics
+*** DONE [#A] Packet (1/13)
+CLOSED: [2022-01-13 Thu 16:13]
+:LOGBOOK:
+CLOCK: [2022-01-13 Thu 15:59]--[2022-01-13 Thu 16:13] =>  0:14
+:END:
+* Composition
+*** DONE [#C] Outline packet
+CLOSED: [2022-02-08 Tue 16:15]
+*** DONE [#A] Thesis
+CLOSED: [2022-02-08 Tue 16:15]
+** TODO [#A] Summative Essay Paragraph 1
+* Math
+*** DeltaMath
+
+
