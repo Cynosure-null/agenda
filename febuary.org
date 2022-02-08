@@ -1,0 +1,68 @@
+AGENDA -*- mode: org -*-
+
+#+STARTUP: overview
+
+#+TITLE: Your Agenda For Febuary
+
+* Homework
+** Creative Engineering
+** Humanities
+** Spanish
+** Physics
+*** DONE [#A] Packet (1/13)
+CLOSED: [2022-01-13 Thu 16:13]
+:LOGBOOK:
+CLOCK: [2022-01-13 Thu 15:59]--[2022-01-13 Thu 16:13] =>  0:14
+:END:
+** Composition
+*** TODO [#C] Outline packet
+*** TODO [#A] Thesis
+** Math
+*** DeltaMath
+
+
+** TODO [#C] VectorThingy [66%]
+- [X] User inputs
+- [X] Take derivatives
+- [ ] Plug into force field
+  
+* Robotics
+** TODO [#A] Watergame
+** TODO [#A] Shooter Class
+
+
+* Miscellany
+** TODO [#B] Create blog post for Gradle stroke
++ When a source file includes itself on Linux, it says:
+~FAILURE: Build failed with an exception.~
+~* What went wrong:~
+~Could not receive a message from the daemon.~
+-
+Code example here:
+#+BEGIN_SRC cpp
+#include "Robot.cpp"
+//[FRC boilerplate code here...]
+#ifndef RUNNING_FRC_TESTS
+int main() {
+  return frc::StartRobot<Robot>();
+}
+#endif
+#+END_SRC
+#+results:
+See details in Gradle Stroke project
+
+
+  
+* Games
+** Subnautica
+*** DONE [#A] Save "Private Ryan" (P.R.A.W.N) [5/5]
+CLOSED: [2022-01-05 Wed 15:44]
+- [X] Set up logistics network
+- [X] Grab cargo
+- [X] Create Grabber arm and/or jets
+- [X] Attach jets
+- [X] CELEBRATE
+** Factorio
+** EVE
+*** TODO [#C] Raise EC standings
+** Hockey
