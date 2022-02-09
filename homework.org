@@ -8,6 +8,8 @@ AGENDA -*- mode: org -*-
 * Creative Engineering
 * Humanities
 * Spanish
+** TODO [#A] Spanish Voces Exit Ticket (by midnight)
+DEADLINE: <2022-02-09 WED>
 * Physics
 *** DONE [#A] Packet (1/13)
 CLOSED: [2022-01-13 Thu 16:13]
