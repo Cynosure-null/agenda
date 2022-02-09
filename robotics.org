@@ -1,0 +1,20 @@
+AGENDA -*- mode: org -*-
+
+#+STARTUP: overview
+
+#+TITLE: Robotics Agenda
+
+
+* TODO [#A] Watergame
+
+
+* DONE [#A] Shooter Class
+CLOSED: [2022-02-08 Tue 21:01]
+* TODO [#B] Main Teleop
++ Add more code for teleoperated mode, do other things before the climber
++ don't get the branch out of date
+* TODO [#B] Climber Teleop
+Ask Crosby for more info about this. All that is needed is a prototype, not a finished product
+
+
+
