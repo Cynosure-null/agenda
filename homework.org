@@ -28,7 +28,7 @@ CLOSED: [2022-02-08 Tue 16:15]
 *** DONE [#A] Thesis
 CLOSED: [2022-02-08 Tue 16:15]
 ** VERIFY [#A] Summative Essay Paragraph 1
-DEADLINE: <2022-02-09 Wed>
+CLOSED: [2022-02-08 Tue 21:43] DEADLINE: <2022-02-09 Wed>
 :LOGBOOK:
 CLOCK: [2022-02-08 Tue 20:48]--[2022-02-08 Tue 21:35] =>  0:47
 :END:
