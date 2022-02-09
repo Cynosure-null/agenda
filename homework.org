@@ -2,7 +2,7 @@ AGENDA -*- mode: org -*-
 
 #+STARTUP: overview
 
-#+TITLE: DO your homework, nerd
+#+TITLE: Do your homework, nerd
 
 
 * Creative Engineering
@@ -20,6 +20,7 @@ CLOSED: [2022-02-08 Tue 16:15]
 *** DONE [#A] Thesis
 CLOSED: [2022-02-08 Tue 16:15]
 ** TODO [#A] Summative Essay Paragraph 1
+** TODO [#B] Second Independent Reading Project
 * Math
 *** DeltaMath
 
