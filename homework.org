@@ -6,16 +6,22 @@ AGENDA -*- mode: org -*-
 
 
 * Creative Engineering
+** TODO [#B] Third Independent Reading Project
+DEADLINE: <2022-02-18 Fri> 
+
 * Humanities
+
 * Spanish
 ** TODO [#A] Spanish Voces Exit Ticket (by midnight)
 DEADLINE: <2022-02-09 WED>
+
 * Physics
 *** DONE [#A] Packet (1/13)
 CLOSED: [2022-01-13 Thu 16:13]
 :LOGBOOK:
 CLOCK: [2022-01-13 Thu 15:59]--[2022-01-13 Thu 16:13] =>  0:14
 :END:
+
 * Composition
 *** DONE [#C] Outline packet
 CLOSED: [2022-02-08 Tue 16:15]
@@ -26,7 +32,9 @@ DEADLINE: <2022-02-09 Wed>
 :LOGBOOK:
 CLOCK: [2022-02-08 Tue 20:48]--[2022-02-08 Tue 21:35] =>  0:47
 :END:
-** TODO [#B] Second Independent Reading Projec
+** TODO [#A] Summative Essay Paragraph 2
+DEADLINE: <2022-02-10 Thu>
+
 * Math
 *** DeltaMath
 
