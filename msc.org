@@ -4,7 +4,8 @@ AGENDA -*- mode: org -*-
 
 #+TITLE: Random Stuff
 
-* TODO [#C] Submit applications
+
+* TODO [#C] Submit applications [/]
 - [ ] Outward Bound
 DEADLINE: <2022-03-01>
 - [ ] North Denver Leadership camp

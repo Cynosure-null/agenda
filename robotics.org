@@ -10,10 +10,18 @@ AGENDA -*- mode: org -*-
 
 * DONE [#A] Shooter Class
 CLOSED: [2022-02-08 Tue 21:01]
+* TODO [#A] Take logic in teleop periodic [%]
+ - [ ] get rid of ~Take::TakePeriodic()~
+ - [ ] Add more detailed logic in teleop
+ - [ ] Restructure ~Take.h~ code
+    - [ ] Hold ball
+    - [ ] Eject ball
+    - [ ] Color sensing
+- [ ] Msc Bug fixes
 * TODO [#B] Main Teleop
 + Add more code for teleoperated mode, do other things before the climber
 + don't get the branch out of date
-* TODO [#B] Climber Teleop
+* DELAYED [#B] Climber Teleop
 Ask Crosby for more info about this. All that is needed is a prototype, not a finished product
 
 

@@ -18,6 +18,9 @@ DEADLINE: <2022-02-11 Fri>
 * Spanish
 ** TODO [#A] Spanish Voces Exit Ticket (by midnight)
 DEADLINE: <2022-02-09 WED>
+** TODO [#A] Turn in google docs Packet
+DEADLINE: <2022-02-10 THU>
+Due midnight
 
 * Physics
 *** DONE [#A] Packet (1/13)
@@ -31,13 +34,17 @@ CLOCK: [2022-01-13 Thu 15:59]--[2022-01-13 Thu 16:13] =>  0:14
 CLOSED: [2022-02-08 Tue 16:15]
 *** DONE [#A] Thesis
 CLOSED: [2022-02-08 Tue 16:15]
-** VERIFY [#A] Summative Essay Paragraph 1
-CLOSED: [2022-02-08 Tue 21:43] DEADLINE: <2022-02-09 Wed>
-:LOGBOOK:
-CLOCK: [2022-02-08 Tue 20:48]--[2022-02-08 Tue 21:35] =>  0:47
-:END:
-** TODO [#A] Summative Essay Paragraph 2
-DEADLINE: <2022-02-10 Thu>
+** DOING [#A] Summative Essay [%]
+Due midnight
+DEADLINE: <2022-02-14 MON>
+- [X] Summative Essay Paragraph 1
+    1st draft
+- [X] Summative Essay Paragraph 2
+    1st draft
+- [ ] Summative Essay Paragraph 3
+- [ ] Summative Essay Introduction
+- [ ] Summative Essay Concultion
+- [ ] Summative Essay Editing
 
 * Math
 *** DeltaMath
