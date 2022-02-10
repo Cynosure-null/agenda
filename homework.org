@@ -16,9 +16,9 @@ DEADLINE: <2022-02-18 Fri>
 ** TODO [#B] Humanities adverstiment formative
 DEADLINE: <2022-02-11 Fri>
 * Spanish
-** TODO [#A] Spanish Voces Exit Ticket (by midnight)
+** DONE [#A] Spanish Voces Exit Ticket (by midnight)
 DEADLINE: <2022-02-09 WED>
-** TODO [#A] Turn in google docs Packet
+** DONE [#A] Turn in google docs Packet
 DEADLINE: <2022-02-10 THU>
 Due midnight
 
@@ -37,6 +37,9 @@ CLOSED: [2022-02-08 Tue 16:15]
 ** DOING [#A] Summative Essay [%]
 Due midnight
 DEADLINE: <2022-02-14 MON>
+[[https://www.ted.com/talks/jennifer_golbeck_your_social_media_likes_expose_more_than_you_think][Transcript]]
+[[https://docs.google.com/document/d/1zv8BH4RMjR0iQOcj-EfPmhElUM8UpANfC00qSG_4ZBk/edit][Project]]
+
 - [X] Summative Essay Paragraph 1
     1st draft
 - [X] Summative Essay Paragraph 2
