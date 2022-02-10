@@ -6,13 +6,12 @@ AGENDA -*- mode: org -*-
 
 
 * Creative Engineering
+* Humanities
 ** TODO [#B] Third Independent Reading Project
 DEADLINE: <2022-02-18 Fri> 
 
-* Humanities
-
 * Spanish
-** TODO [#A] Spanish Voces Exit Ticket (by midnight)
+** TODO-URGENT [#A] Spanish Voces Exit Ticket (by midnight)
 DEADLINE: <2022-02-09 WED>
 
 * Physics
@@ -32,8 +31,11 @@ CLOSED: [2022-02-08 Tue 21:43] DEADLINE: <2022-02-09 Wed>
 :LOGBOOK:
 CLOCK: [2022-02-08 Tue 20:48]--[2022-02-08 Tue 21:35] =>  0:47
 :END:
-** TODO [#A] Summative Essay Paragraph 2
-DEADLINE: <2022-02-10 Thu>
+** VERIFY [#A] Summative Essay Paragraph 2
+CLOSED: [2022-02-09 Wed 21:52] DEADLINE: <2022-02-10 Thu>
+:LOGBOOK:
+CLOCK: [2022-02-09 Wed 21:27]--[2022-02-09 Wed 21:52] =>  0:25
+:END:
 
 * Math
 *** DeltaMath
@@ -41,3 +43,4 @@ DEADLINE: <2022-02-10 Thu>
 
 
 #  LocalWords:  Summative
+
