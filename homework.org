@@ -5,6 +5,9 @@ AGENDA -*- mode: org -*-
 #+TITLE: Do your homework, nerd
 
 
+* Assorted Homework
+** DONE [#B] Write email to teacher about absence
+
 * Creative Engineering
 ** TODO [#B] Third Independent Reading Project
 DEADLINE: <2022-02-18 Fri> 
