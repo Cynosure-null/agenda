@@ -13,7 +13,8 @@ AGENDA -*- mode: org -*-
 DEADLINE: <2022-02-18 Fri> 
 
 * Humanities
-
+** TODO [#B] Humanities adverstiment formative
+DEADLINE: <2022-02-11 Fri>
 * Spanish
 ** TODO [#A] Spanish Voces Exit Ticket (by midnight)
 DEADLINE: <2022-02-09 WED>
