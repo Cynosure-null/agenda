@@ -5,14 +5,23 @@ AGENDA -*- mode: org -*-
 #+TITLE: Do your homework, nerd
 
 
+* Assorted Homework
+** DONE [#B] Write email to teacher about absence
+
 * Creative Engineering
 * Humanities
 ** TODO [#B] Third Independent Reading Project
 DEADLINE: <2022-02-18 Fri> 
 
+* Humanities
+** TODO [#B] Humanities adverstiment formative
+DEADLINE: <2022-02-11 Fri>
 * Spanish
-** TODO-URGENT [#A] Spanish Voces Exit Ticket (by midnight)
+** DONE [#A] Spanish Voces Exit Ticket (by midnight)
 DEADLINE: <2022-02-09 WED>
+** DONE [#A] Turn in google docs Packet
+DEADLINE: <2022-02-10 THU>
+Due midnight
 
 * Physics
 *** DONE [#A] Packet (1/13)
@@ -26,16 +35,20 @@ CLOCK: [2022-01-13 Thu 15:59]--[2022-01-13 Thu 16:13] =>  0:14
 CLOSED: [2022-02-08 Tue 16:15]
 *** DONE [#A] Thesis
 CLOSED: [2022-02-08 Tue 16:15]
-** VERIFY [#A] Summative Essay Paragraph 1
-CLOSED: [2022-02-08 Tue 21:43] DEADLINE: <2022-02-09 Wed>
-:LOGBOOK:
-CLOCK: [2022-02-08 Tue 20:48]--[2022-02-08 Tue 21:35] =>  0:47
-:END:
-** VERIFY [#A] Summative Essay Paragraph 2
-CLOSED: [2022-02-09 Wed 21:52] DEADLINE: <2022-02-10 Thu>
-:LOGBOOK:
-CLOCK: [2022-02-09 Wed 21:27]--[2022-02-09 Wed 21:52] =>  0:25
-:END:
+** DOING [#A] Summative Essay [%]
+Due midnight
+DEADLINE: <2022-02-14 MON>
+[[https://www.ted.com/talks/jennifer_golbeck_your_social_media_likes_expose_more_than_you_think][Transcript]]
+[[https://docs.google.com/document/d/1zv8BH4RMjR0iQOcj-EfPmhElUM8UpANfC00qSG_4ZBk/edit][Project]]
+
+- [X] Summative Essay Paragraph 1
+    1st draft
+- [X] Summative Essay Paragraph 2
+    1st draft
+- [ ] Summative Essay Paragraph 3
+- [ ] Summative Essay Introduction
+- [ ] Summative Essay Concultion
+- [ ] Summative Essay Editing
 
 * Math
 *** DeltaMath
