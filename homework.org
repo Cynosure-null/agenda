@@ -6,7 +6,7 @@ AGENDA -*- mode: org -*-
 
 
 * Assorted Homework
-** DONE [#B] Write email to teacher about absence
+** DONE [#B] Write email to teachers about absence
 
 * Creative Engineering
 * Humanities
@@ -31,11 +31,14 @@ CLOCK: [2022-01-13 Thu 15:59]--[2022-01-13 Thu 16:13] =>  0:14
 :END:
 
 * Composition
-*** DONE [#C] Outline packet
+*** DONE [#C] Outline packet 
 CLOSED: [2022-02-08 Tue 16:15]
 *** DONE [#A] Thesis
 CLOSED: [2022-02-08 Tue 16:15]
-** DOING [#A] Summative Essay [%]
+** DOING [#A] Summative Essay [50%]
+:LOGBOOK:
+CLOCK: [2022-02-10 Thu 20:08]--[2022-02-10 Thu 20:42] =>  0:34
+:END:
 Due midnight
 DEADLINE: <2022-02-14 MON>
 [[https://www.ted.com/talks/jennifer_golbeck_your_social_media_likes_expose_more_than_you_think][Transcript]]
@@ -45,10 +48,13 @@ DEADLINE: <2022-02-14 MON>
     1st draft
 - [X] Summative Essay Paragraph 2
     1st draft
-- [ ] Summative Essay Paragraph 3
+- [X] Summative Essay Paragraph 3
+    1st draft
 - [ ] Summative Essay Introduction
 - [ ] Summative Essay Concultion
 - [ ] Summative Essay Editing
+
+
 
 * Math
 *** DeltaMath
