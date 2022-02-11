@@ -12,9 +12,7 @@ AGENDA -*- mode: org -*-
 * Humanities
 ** TODO [#B] Third Independent Reading Project
 DEADLINE: <2022-02-18 Fri> 
-
-* Humanities
-** TODO [#B] Humanities adverstiment formative
+** DONE [#A] Humanities adverstiment formative
 DEADLINE: <2022-02-11 Fri>
 * Spanish
 ** DONE [#A] Spanish Voces Exit Ticket (by midnight)

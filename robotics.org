@@ -7,7 +7,6 @@ AGENDA -*- mode: org -*-
 
 * TODO [#A] Watergame
 
-
 * DONE [#A] Shooter Class
 CLOSED: [2022-02-08 Tue 21:01]
 * VERIFY [#A] Take logic in teleop periodic [100%]
@@ -27,7 +26,7 @@ SCHEDULED: <2022-02-12 Sat>
 
 + Add more code for teleoperated mode, do other things before the climber
 + don't get the branch out of date
-* DELAYED [#B] Climber Teleop
+* TODO [#B] Climber Teleop
 Ask Crosby for more info about this. All that is needed is a prototype, not a finished product
 
 
