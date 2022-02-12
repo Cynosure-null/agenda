@@ -24,6 +24,11 @@ CLOCK: [2022-02-10 Thu 20:59]--[2022-02-10 Thu 21:48] =>  0:49
 - [X] Msc Bug fixes
 * TODO [#B] Main Teleop
 SCHEDULED: <2022-02-12 Sat>
+* TODO [#B] PID framework
+ - [ ] Take
+ - [ ] Shooter?
+ - [ ] Climber?
+     
 
 + Add more code for teleoperated mode, do other things before the climber
 + don't get the branch out of date
@@ -31,4 +36,26 @@ SCHEDULED: <2022-02-12 Sat>
 Ask Crosby for more info about this. All that is needed is a prototype, not a finished product
 
 
+
+
+
+* PID notes
+** Values
+*** P value:
+Proportonal 
+Most important, edit first.
+Changes gain based on distance from target
+A higher P value leads to getting to target faster but more oscilation 
+*** I value:
+Integral
+Smooths out errors
+*** D value:
+Differentail
+Like P but different
+
+** MSC:
+How to execute PIDs:
+~m_motorPIDControler.SetReference(position, controlType);~
+
++ The farther away from the desired position, the stonger the force is
 
