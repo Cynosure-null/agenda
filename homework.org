@@ -10,12 +10,12 @@ AGENDA -*- mode: org -*-
 
 * Creative Engineering
 * Humanities
-** TODO [#B] Third Independent Reading Project
+** TODO [#A] Third Independent Reading Project
 DEADLINE: <2022-02-18 Fri> 
 
 * Humanities
-** TODO [#B] Humanities adverstiment formative
-DEADLINE: <2022-02-11 Fri>
+** DONE [#B] Humanities adverstiment formative
+CLOSED: [2022-02-12 Sat 21:16] DEADLINE: <2022-02-11 Fri>
 * Spanish
 ** DONE [#A] Spanish Voces Exit Ticket (by midnight)
 DEADLINE: <2022-02-09 WED>
@@ -57,6 +57,9 @@ DEADLINE: <2022-02-14 MON>
 
 
 * Math
+** TODO [#A] Formative Corrections
+DEADLINE: <2022-02-14 Mon>
+
 *** DeltaMath
 
 
