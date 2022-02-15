@@ -18,12 +18,15 @@ DEADLINE: <2022-02-18 Fri>
 CLOSED: [2022-02-12 Sat 21:16] DEADLINE: <2022-02-11 Fri>
 * Spanish
 ** DONE [#A] Spanish Voces Exit Ticket (by midnight)
+** TODO [#B] Fix exit ticket
 DEADLINE: <2022-02-09 WED>
 ** DONE [#A] Turn in google docs Packet
 DEADLINE: <2022-02-10 THU>
 Due midnight
 
 * Physics
+** TODO [#B] Mousetrap car project poster
+DEADLINE <2022-02-18 Fri>
 *** DONE [#A] Packet (1/13)
 CLOSED: [2022-01-13 Thu 16:13]
 :LOGBOOK:
@@ -61,6 +64,8 @@ DEADLINE: <2022-02-14 MON>
 * Math
 ** TODO [#A] Formative Corrections
 DEADLINE: <2022-02-14 Mon>
+** 3D Geomometry Summative Exam
+SCHEDULE: <2022-02-16 Wed>
 
 *** DeltaMath
 
