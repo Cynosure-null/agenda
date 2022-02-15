@@ -10,19 +10,24 @@ AGENDA -*- mode: org -*-
 
 * Creative Engineering
 * Humanities
-** TODO [#A] Third Independent Reading Project
-DEADLINE: <2022-02-18 Fri> 
+** TODO [#A] Third Independent Reading Project [/]
+DEADLINE: <2022-02-18 Fri>
+    - [ ] Description
+    - [ ] Cover
+    - [ ] Final touches
 
-* Humanities
 ** DONE [#B] Humanities adverstiment formative
 CLOSED: [2022-02-12 Sat 21:16] DEADLINE: <2022-02-11 Fri>
+
 * Spanish
 ** DONE [#A] Spanish Voces Exit Ticket (by midnight)
-** TODO [#B] Fix exit ticket
-DEADLINE: <2022-02-09 WED>
+
+** DONE [#B] Fix exit ticket
+CLOSED: [2022-02-14 Mon 17:39] DEADLINE: <2022-02-09 WED>
 ** DONE [#A] Turn in google docs Packet
 DEADLINE: <2022-02-10 THU>
 Due midnight
+
 
 * Physics
 ** TODO [#B] Mousetrap car project poster
@@ -38,7 +43,8 @@ CLOCK: [2022-01-13 Thu 15:59]--[2022-01-13 Thu 16:13] =>  0:14
 CLOSED: [2022-02-08 Tue 16:15]
 *** DONE [#A] Thesis
 CLOSED: [2022-02-08 Tue 16:15]
-** DOING [#A] Summative Essay [66%]
+** DONE [#A] Summative Essay [100%]
+CLOSED: [2022-02-14 Mon 20:20]
 :LOGBOOK:
 CLOCK: [2022-02-10 Thu 20:08]--[2022-02-10 Thu 20:42] =>  0:34
 :END:
@@ -48,22 +54,17 @@ DEADLINE: <2022-02-14 MON>
 [[https://docs.google.com/document/d/1zv8BH4RMjR0iQOcj-EfPmhElUM8UpANfC00qSG_4ZBk/edit][Project]]
 
 - [X] Summative Essay Paragraph 1
-    1st draft
 - [X] Summative Essay Paragraph 2
-    1st draft
 - [X] Summative Essay Paragraph 3
-    1st draft
 - [X] Summative Essay Introduction
-    1st draft
-- [ ] Summative Essay Conclusion
-  
-- [ ] Summative Essay Editing
+- [X] Summative Essay Conclusion
+- [X] Summative Essay Editing
 
 
 
 * Math
-** TODO [#A] Formative Corrections
-DEADLINE: <2022-02-14 Mon>
+** DONE [#A] Formative Corrections
+CLOSED: [2022-02-14 Mon 17:37] DEADLINE: <2022-02-14 Mon>
 ** 3D Geomometry Summative Exam
 SCHEDULE: <2022-02-16 Wed>
 
