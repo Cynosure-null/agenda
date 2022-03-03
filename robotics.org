@@ -40,6 +40,43 @@ Ask Crosby for more info about this. All that is needed is a prototype, not a fi
 
 
 
+* 25/2/22
+** TODO [#A] Shooter spacing
+- [ ] gain determination
+  # NGAHHHHHHH
+
+* Testing
+** TODO [#A] Climber [1/4]
+     - [X] Very motors
+     - [ ] Test positions
+       - [ ] Initial
+       - [ ] Extend
+       - [ ] 1st bar sequence
+       
+     - [ ] Test climbing
+       - [ ] 1st bar
+       - [ ] 2nd bar
+
+     - [ ] Test ratchet
+
+** TODO [#A] Take pipeline [/]
+- [ ] Color sensor
+- [ ] Automation
+  - [ ] scenario 1
+  - [ ] scenario 2
+  - [ ] scenario 3
+  - [ ] scenario 4
+    
+
+
+** TODO [#A] Shooter [/]
+- [ ] Manual shooting
+- [ ] Automated shooting
+- [ ] Shooter tuning
+
+** TODO [#B] Msc [/]
+- [ ] msc
+
 * PID notes
 ** Values
 *** P value:

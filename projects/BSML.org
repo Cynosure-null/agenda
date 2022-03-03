@@ -1,0 +1,77 @@
+Bloody Stupid Markup Language
+
+[START BSML] # Keyword, creates document with title BSML
+
+Owner: # Open key encompasses sub keys
+Name:
+First: "Asher";
+Last: "Olgeirson";
+Nick:; # Sets to null
+; # Ends "Name" field
+
+Projects: EVETerm: state: "abandoned";;, DTB: state: "abandoned";;, BSML: state: "in progress";;;
+
+~~~~ # Exits all open keys
+
+BSML:
+Name: "Bloody Stupid Markup Language";
+Description: "A markup language";
+
+Features:
+"Comments", "Data types", "Lists", "Depth", "Other things";
+
+Examples:
+Data_types:
+Comments:;
+# Just do this
+# I'm a comment!
+Bools: true;
+strings: "yep";
+numbers: 1, 1.0, -1, inf, -inf, NaN;
+;
+# How to declare data types
+declaring_types:
+float: {float|1};
+# Or
+{float|float2}: 1;
+;;
+Multiple_definitions:
+thing: 1;
+thing: 2;;
+# The exact same as
+One_definition:
+thing: 1, 2;;
+
+Differing_data_types:
+{string|stringlist}: "A good string", 1, "auto corrects to \\"1"", "to get an int try this",
+{int|1}, "This returns 1 as an int",
+true, "Returns true as a string",
+{bool|true}, "that returns true";
+
+Type_conversion:
+null_to_string: thing, "thing returns as a string automatically";
+null_to_int: 1, "returns an int";
+null_to_float: 1.0, "returns a double";
+null_to_bool: true, "returns a bool";
+
+
+~~~~
+
+[END] # Keyword, ends document
+
+Calling things:
+To call something like the owners first name, use this syntax
+~~BSML>Owner>Name>First()~~
+~~{string|Asher}~~
+# That would return all values
+~~BSML>Owner>Projects(^2)~~
+~~{string|EVEterm}, {string|DTB}, {string|BSML}~~
+# Returns a list of everything below it, one deep
+
+
+
+
+
+
+
+
