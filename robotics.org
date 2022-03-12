@@ -7,7 +7,8 @@ AGENDA -*- mode: org -*-
 
 * TODO [#A] Watergame
 
-* TODO [#A] Enums
+* DONE [#A] Enums
+CLOSED: [2022-03-11 Fri 11:28]
 
 * DONE [#A] Shooter Class
 CLOSED: [2022-02-08 Tue 21:01]
@@ -41,12 +42,14 @@ Ask Crosby for more info about this. All that is needed is a prototype, not a fi
 
 
 * 25/2/22
-** TODO [#A] Shooter spacing
-- [ ] gain determination
+** DONE [#A] Shooter spacing
+CLOSED: [2022-03-11 Fri 11:28]
+- [X] gain determination
   # NGAHHHHHHH
 
 * Testing
-** TODO [#A] Climber [1/4]
+** DONE [#A] Climber [1/4]
+CLOSED: [2022-03-11 Fri 11:28]
      - [X] Very motors
      - [ ] Test positions
        - [ ] Initial
@@ -59,7 +62,8 @@ Ask Crosby for more info about this. All that is needed is a prototype, not a fi
 
      - [ ] Test ratchet
 
-** TODO [#A] Take pipeline [/]
+** DONE [#A] Take pipeline [/]
+CLOSED: [2022-03-11 Fri 11:28]
 - [ ] Color sensor
 - [ ] Automation
   - [ ] scenario 1
@@ -69,12 +73,14 @@ Ask Crosby for more info about this. All that is needed is a prototype, not a fi
     
 
 
-** TODO [#A] Shooter [/]
+** DONE [#A] Shooter [/]
+CLOSED: [2022-03-11 Fri 11:28]
 - [ ] Manual shooting
 - [ ] Automated shooting
 - [ ] Shooter tuning
 
-** TODO [#B] Msc [/]
+** DONE [#B] Msc [/]
+CLOSED: [2022-03-11 Fri 11:28]
 - [ ] msc
 
 * PID notes
@@ -96,4 +102,9 @@ How to execute PIDs:
 ~m_motorPIDControler.SetReference(position, controlType);~
 
 + The farther away from the desired position, the stonger the force is
+
+
+
+* __AZ_COMPS__
+
 
