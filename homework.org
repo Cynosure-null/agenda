@@ -30,7 +30,7 @@ Due midnight
 
 
 * Physics
-** TODO [#B] Mousetrap car project poster
+** TODO [#A] Mousetrap car project poster
 DEADLINE <2022-02-18 Fri>
 *** DONE [#A] Packet (1/13)
 CLOSED: [2022-01-13 Thu 16:13]
