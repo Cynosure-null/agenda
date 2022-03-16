@@ -1,0 +1,15 @@
+
+* 14/03/2022
+** Distance formula 
+\begin{equation}
+d = \sqrt {\left( {x_1 - x_2 } \right)^2 + \left( {y_1 - y_2 } \right)^2 }
+\end{equation}
+
++ Used to find distance between two points
+
+** AA criterion
++ If two pairs of angles are the same, that means the third is also the same
++ If the thrid is the same, all three are the same. This makes the triangle congruent
+
+** Ratios 
++ If you have a ratio, you can cross multilpy to get the answer
