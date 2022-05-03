@@ -8,16 +8,8 @@ AGENDA -*- mode: org -*-
 * Assorted Homework
 ** DONE [#B] Write email to teachers about absence
 
-* Creative Engineering
 * Humanities
-** TODO [#A] Third Independent Reading Project [/]
-DEADLINE: <2022-02-18 Fri>
-    - [ ] Description
-    - [ ] Cover
-    - [ ] Final touches
-
-** DONE [#B] Humanities adverstiment formative
-CLOSED: [2022-02-12 Sat 21:16] DEADLINE: <2022-02-11 Fri>
+** TODO [#A] Bring book
 
 * Spanish
 ** DONE [#A] Spanish Voces Exit Ticket (by midnight)
