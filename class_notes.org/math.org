@@ -1,5 +1,10 @@
+# AGENDA -*- mode: org -*-
 
-* 14/03/2022
+#+STARTUP: overview
+
+#+TITLE: Math Notes
+
+* 14.03.22
 ** Distance formula 
 \begin{equation}
 d = \sqrt {\left( {x_1 - x_2 } \right)^2 + \left( {y_1 - y_2 } \right)^2 }
@@ -13,3 +18,21 @@ d = \sqrt {\left( {x_1 - x_2 } \right)^2 + \left( {y_1 - y_2 } \right)^2 }
 
 ** Ratios 
 + If you have a ratio, you can cross multilpy to get the answer
+
+
+* 19.04.22
+** Complimentary angles
++ if $$ \angle A + \angle B = 90 $$ Then $$ \sin A = \cos B $$
+** Classwork
+| 0.8 | 0.013962180 |
+|     |             |
+|     |             |
+#+TBLFM: $1=sin(90::$2=cos(90-@1$1
+a = 4k -22
+b = 6k -13
+sin(a) = cos(b)
+
+
+*** Spicy 1: 0.013962180
+*** Spicy 2: Unclear
+*** Spicy 3: 0.6

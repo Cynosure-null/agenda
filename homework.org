@@ -65,7 +65,7 @@ DEADLINE: <2022-02-14 MON>
 * Math
 ** DONE [#A] Formative Corrections
 CLOSED: [2022-02-14 Mon 17:37] DEADLINE: <2022-02-14 Mon>
-** 3D Geomometry Summative Exam
+** DONE 3D Geomometry Summative Exam
 SCHEDULE: <2022-02-16 Wed>
 
 *** DeltaMath
@@ -73,4 +73,5 @@ SCHEDULE: <2022-02-16 Wed>
 
 
 #  LocalWords:  Summative
+
 
