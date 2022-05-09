@@ -1,0 +1,27 @@
+AGENDA -*- mode: org -*-
+
+#+STARTUP: overview
+
+#+TITLE: Your Agenda For May
+
+* Projects
+** TODO [#B] Sal Discord bot in Rust
+** TODO [#C] Setup Fosscord
+* Homework
+** Creative Engineering
+** Humanities
+*** TODO [#A] Mastery check in backpack
+*** DONE [#A] Read chapter 5
+** Spanish
+** Physics
+** Composition
+*** TODO [#A] Summative poem
+DEADLINE: tomorrow
+** Math
+*** TODO [#B] Extra credit problems
+
+* Games
+** Subnautica
+** Factorio
+** EVE
+** Hockey
