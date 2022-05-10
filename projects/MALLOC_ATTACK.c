@@ -4,10 +4,13 @@
 int main(void) 
 {
     int x = 2048;
-    for (;;)
-    {
-        int *p;
-        p = (int *)malloc(100000);
+    int *p;
+    p = (int *)malloc(x);
+    while (1==1)
+        {
+        p = (int *)realloc(*p, x);
+        printf(sizeof(p));
+        printf("Run complete \n");
     }
     
 }
