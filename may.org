@@ -4,9 +4,6 @@ AGENDA -*- mode: org -*-
 
 #+TITLE: Your Agenda For May
 
-* Projects
-** TODO [#B] Sal Discord bot in Rust
-** TODO [#C] Setup Fosscord
 * Homework
 ** Creative Engineering
 ** Humanities
@@ -15,10 +12,19 @@ AGENDA -*- mode: org -*-
 ** Spanish
 ** Physics
 ** Composition
-*** TODO [#A] Summative poem
-DEADLINE: tomorrow
+*** DONE [#A] Summative poem
+CLOSED: [2022-05-09 Mon 18:14]
 ** Math
 *** TODO [#B] Extra credit problems
+
+
+* Projects
+** TODO [#B] Sal Discord bot in Rust
+** TODO [#C] Setup Fosscord
+** TODO [#B] Setup Factorio server
+** TODO [#B] CPU montior offseason project
+** TODO [#A] State machine project
+
 
 * Games
 ** Subnautica
