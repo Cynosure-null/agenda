@@ -3,12 +3,16 @@
 
 
 int main(void) {
-char s[] = "hat";
-char c = s[10];
-printf(&c);
-int z = 1;
-char d = c[&z];
-printf("\n");
-printf(&d);
-
+printf("START\n");
+int i;
+for (i = 0; i < i+10; i++) {
+    printf("Run number: ");
+    printf("%d", i);
+    printf("\n");
+    char s[] = "hat";
+    char *c = s[i];
+    printf("%c", c);
+    printf("\n");
+}
+printf("END");
 }

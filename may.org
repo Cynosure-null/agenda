@@ -4,24 +4,33 @@ AGENDA -*- mode: org -*-
 
 #+TITLE: Your Agenda For May
 
+* Time allotment
+1. Homework >= 90m
+2. Projects >= 30m
+3. Games <= 120m
+
 * Homework
 ** Creative Engineering
 ** Humanities
 *** TODO [#A] Mastery check in backpack
 *** DONE [#A] Read chapter 5
+*** TODO [#A] Read chapter 7
 ** Spanish
 ** Physics
 ** Composition
+*** TODO [#A] Editing formative
 *** DONE [#A] Summative poem
 CLOSED: [2022-05-09 Mon 18:14]
 ** Math
 *** TODO [#B] Extra credit problems
+*** TODO [#A] Wayback Wednesday Edulastic 
 
 
 * Projects
+** TODO [#A] Practice "Lean On Me"
 ** TODO [#B] Sal Discord bot in Rust
 ** TODO [#C] Setup Fosscord
-** TODO [#B] Setup Factorio server
+** DONE [#B] Setup Factorio server
 ** TODO [#B] CPU montior offseason project
 ** TODO [#A] State machine project
 
@@ -29,5 +38,12 @@ CLOSED: [2022-05-09 Mon 18:14]
 * Games
 ** Subnautica
 ** Factorio
+*** Mods to instal
++ https://mods.factorio.com/mod/Squeak%20Through/
++ https://mods.factorio.com/mod/jetpack
++ https://mods.factorio.com/mod/YARM
++ https://mods.factorio.com/mod/Todo-List
++ https://mods.factorio.com/mod/DiscoScience
++ https://mods.factorio.com/mod/Bottleneck
 ** EVE
 ** Hockey
