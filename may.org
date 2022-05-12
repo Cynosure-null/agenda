@@ -31,6 +31,7 @@ CLOSED: [2022-05-11 Wed 16:24]
 * Projects
 ** TODO [#A] Practice "Lean On Me"
 ** TODO [#B] Sal Discord bot in Rust
++ In progress
 ** TODO [#C] Setup Fosscord
 ** DONE [#B] Setup Factorio server
 ** TODO [#B] CPU montior offseason project
