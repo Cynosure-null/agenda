@@ -5,8 +5,8 @@ AGENDA -*- mode: org -*-
 #+TITLE: Your Agenda For May
 
 * Time allotment
-1. Homework >= 90m
-2. Projects >= 30m
+1. Homework >= 90m x
+2. Projects >= 30m x
 3. Games <= 120m
 
 * Homework
@@ -18,12 +18,14 @@ AGENDA -*- mode: org -*-
 ** Spanish
 ** Physics
 ** Composition
-*** TODO [#A] Editing formative
+*** DONE [#A] Editing formative
+CLOSED: [2022-05-11 Wed 16:08]
 *** DONE [#A] Summative poem
 CLOSED: [2022-05-09 Mon 18:14]
 ** Math
 *** TODO [#B] Extra credit problems
-*** TODO [#A] Wayback Wednesday Edulastic 
+*** DONE [#A] Wayback Wednesday Edulastic 
+CLOSED: [2022-05-11 Wed 16:24]
 
 
 * Projects
@@ -45,5 +47,6 @@ CLOSED: [2022-05-09 Mon 18:14]
 + https://mods.factorio.com/mod/Todo-List
 + https://mods.factorio.com/mod/DiscoScience
 + https://mods.factorio.com/mod/Bottleneck
+  
 ** EVE
 ** Hockey
